@@ -18,4 +18,4 @@ Everything is written in Rust.
 
   # Screenshots
 
-https://raw.githubusercontent.com/FlatronTech/GruzNET-Explorer/refs/heads/main/Screenshots/file_000000006ad471f4a52cf414741545de.png
+<img width="1280" height="720" alt="shot#1" src="https://raw.githubusercontent.com/FlatronTech/GruzNET-Explorer/refs/heads/main/Screenshots/file_000000006ad471f4a52cf414741545de.png" />
