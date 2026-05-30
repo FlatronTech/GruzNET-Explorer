@@ -15,3 +15,7 @@ Everything is written in Rust.
 - The browser doesn't have HTTPS support
 - No full JS support (which MANY sites need..)
 - Little support for CSS (only text-align and background-color work for now)
+
+  # Screenshots
+
+https://github.com/FlatronTech/GruzNET-Explorer/blob/main/Screenshots/file_00000000f3a072468095d3b6fc14801d.png
